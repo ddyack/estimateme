@@ -1,0 +1,60 @@
+1550732702428	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ZJ3XLMcl3U6u"
+1550732703054	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550732703055	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:10120): Gtk-WARNING **: 11:05:03.846: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:10120): Gtk-WARNING **: 11:05:03.846: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1550732706268	Marionette	INFO	Listening on port 36723
+1550732706365	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550732711014	Marionette	INFO	Stopped listening on port 36723
+JavaScript error: resource://gre/modules/BrowserUtils.jsm, line 410: TypeError: docShell is null
+1550732712599	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.VuD9qJn2jms3"
+1550732713023	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550732713023	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:10454): Gtk-WARNING **: 11:05:13.648: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:10454): Gtk-WARNING **: 11:05:13.648: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1550732715845	Marionette	INFO	Listening on port 41845
+1550732715913	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550732717663	Marionette	INFO	Stopped listening on port 41845
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 23: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+[Parent 10454, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-zD5CCs/firefox-65.0+linuxmint1+tessa/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+1550732719076	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.dHZ1MpDxuPkW"
+1550732719492	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550732719493	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:10741): Gtk-WARNING **: 11:05:20.087: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:10741): Gtk-WARNING **: 11:05:20.087: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1550732722457	Marionette	INFO	Listening on port 45569
+1550732722509	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550732735798	Marionette	INFO	Stopped listening on port 45569
+1550732738018	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.IzT1lLX1IQTG"
+1550732738426	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550732738427	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:11082): Gtk-WARNING **: 11:05:38.951: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:11082): Gtk-WARNING **: 11:05:38.951: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1550732741141	Marionette	INFO	Listening on port 44665
+1550732741230	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550732754382	Marionette	INFO	Stopped listening on port 44665
+[Parent 11082, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-zD5CCs/firefox-65.0+linuxmint1+tessa/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1550732755289	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2zkY3XItMqPH"
+1550732755700	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550732755700	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:11429): Gtk-WARNING **: 11:05:56.244: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:11429): Gtk-WARNING **: 11:05:56.244: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1550732758873	Marionette	INFO	Listening on port 38781
+1550732758901	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550732771600	Marionette	INFO	Stopped listening on port 38781

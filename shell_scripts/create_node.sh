@@ -1,0 +1,2 @@
+#!/bin/bash
+java -jar selenium-server-standalone-3.141.59.jar -role node -nodeConfig config_node.json

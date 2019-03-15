@@ -1,0 +1,13 @@
+# -*- coding: utf-8 -*-
+LOGIN = "test_login"
+PASSWORD = "test_password"
+URL = "http://estimate-qaa.simbirsoft/"
+NAME_CLIENT = "Test client"
+NAME_PROJECT = "Test project"
+NAME_EXPERT = "QAA"
+DESCRIPTION_PROJECT = "This is test project"
+CUSTOM_NAME_PHASE = "Проектирование"
+CUSTOM_NAME_FEATURE = "Тестовая Фича"
+CUSTOM_NAME_TASK = "Тестовая задача"
+DESCRIPTION_FEATURE = "Тестовое описание фичи"
+DESCRIPTION_TASK = "Тестовое описание задачи"
